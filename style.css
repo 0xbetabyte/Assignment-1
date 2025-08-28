@@ -18,10 +18,8 @@
     top: 0%;
     left: 0%;
 }
-.header a {
-    display: none;
-    flex-direction: column;
-    text-align: center;
+.header p {
+    color: white;
 }
 .mrq {
     background-color: rgb(103, 137, 167);
